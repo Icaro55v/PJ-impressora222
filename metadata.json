@@ -1,0 +1,5 @@
+{
+  "name": "Gerenciador de Fila de Impressão 3D",
+  "description": "Uma aplicação web para gerenciar, rastrear e organizar pedidos de impressão 3D em tempo real. Permite que operadores adicionem novos trabalhos e atualizem seus status.",
+  "requestFramePermissions": []
+}
